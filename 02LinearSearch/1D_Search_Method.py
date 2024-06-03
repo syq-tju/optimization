@@ -20,6 +20,7 @@ plt.xlabel('x')
 plt.ylabel('f(x)')
 plt.legend()
 plt.grid(True)
+plt.show()
 
 # Save the plot
 image_path = '1d_search_visualization.png'
